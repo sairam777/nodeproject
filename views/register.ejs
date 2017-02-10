@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link href="/assests/style.css" rel="stylesheet" type="text/css"/>
+</head>
+<body>
+
+  <h1>Welcome to the website master</h1>
+
+  <form method="post" action="/index">
+      <label>User name</label>
+      <input type="text" name="uname">
+      <label>Password</label>
+      <input type="password" name="password">
+      <button type="submit">Submit</button>
+  </form>
+  <% if (msgg){ %>
+    <p><%= msgg%></p>
+  <%}%>
+
+</body>
+</html>

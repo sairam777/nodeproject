@@ -1,0 +1,22 @@
+{
+  "name": "sai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "inserver.js",
+  "scripts": {
+    "test": "ss"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssss"
+  },
+  "keywords": [
+    "ssssss"
+  ],
+  "author": "sai",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.5.5",
+    "express": "^4.14.1"
+  }
+}
